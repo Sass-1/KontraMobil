@@ -1,5 +1,10 @@
 # KontraMobil
 
+### App Walk-though
+
+<img src="KontraMobil.gif" width=200><br>
+
+
 # App Description
 KontraMobil se yon aplikasyon mobil ki fèt pou fasilite fason sitwayen yo resevwa epi peye kontravansyon yo ann Ayiti. Jodi a, anpil moun pèdi papye yo, pa konn ki kote pou peye, oubyen pase anpil tan ap tann nan biwo. KontraMobil rezoud pwoblèm sa a avèk yon solisyon rapid, modèn, epi senp.
 Avèk KontraMobil, polisye yo kapab anrejistre yon kontravansyon dirèkteman nan telefòn yo(kontra mobil), epi sitwayen an resevwa li sou telefòn li menm jou a. Aprè sa, moun nan ka peye amann lan dirèkteman sou aplikasyon an atravè MonCash, NatCash, elatriye, san deplase, san estrès.
